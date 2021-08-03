@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaximumGenerics", "FindMaximumGenerics.csproj", "{1DA80BE1-ACCB-4543-976A-913E8E8B612C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA80BE1-ACCB-4543-976A-913E8E8B612C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA80BE1-ACCB-4543-976A-913E8E8B612C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA80BE1-ACCB-4543-976A-913E8E8B612C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA80BE1-ACCB-4543-976A-913E8E8B612C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA0F1C4-1322-49F2-9CE3-90A7626AE649}
+	EndGlobalSection
+EndGlobal
